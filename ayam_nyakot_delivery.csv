@@ -1,0 +1,4 @@
+order_id,tanggal,nama_pelanggan,no_hp,alamat_pengantaran,menu_pesanan,jumlah,total_pesanan,ongkir,metode_pesanan,nama_petugas,status_pengantaran,status_pembayaran_ongkir,estimasi_sampai,catatan,updated_at
+AN-20260508-1001,2026-05-08,Rina,081234567890,Jl. Merdeka No. 10,Ayam Geprek Pakai Nasi - Pedas,2,30000,8000,Diantar Kurir Internal,Bang Andi,Dalam Pengantaran,Belum Dibayar,18:30,Tolong antar ke pos satpam.,2026-05-08 18:00:00
+AN-20260508-1002,2026-05-08,Dimas,082111223344,Kampus / Gedung B,Ayam Geprek Tanpa Nasi - Tidak Pedas,1,10000,5000,Diantar Ojek Online,Driver Online,Selesai,Sudah Dibayar,17:15,-,2026-05-08 17:30:00
+AN-20260508-1003,2026-05-08,Salsa,085266778899,-,Ayam Geprek Pakai Nasi - Pedas,3,45000,0,Beli Langsung di Tempat,Kasir,Selesai,Sudah Dibayar,-,Pembelian offline.,2026-05-08 18:10:00
